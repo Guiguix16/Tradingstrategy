@@ -1,4 +1,9 @@
-# Projet de Backtest et Optimisation d'une Stratégie de Trading par Algorithme Génétique
+<p align="center">
+  <img src="Screen.png" alt="Backtest Result" width="50%">
+</p>
+
+<h2 align="center">Projet de Backtest et Optimisation d'une Stratégie de Trading par Algorithme Génétique</h2>
+
 
 Ce projet propose un pipeline complet pour :
 1. **Récupérer** des données de marché à partir de **Binance** (via la librairie [ccxt](https://github.com/ccxt/ccxt)),
@@ -130,7 +135,7 @@ Une fois lancé, le script effectue :
 
 ---
 
-## Avertissement ⚠️
+## Avertissement 
 
 Ce projet est fourni à des **fins d’expérimentation et de démonstration**. Il n’est en **aucun cas** une recommandation d’investissement. Les performances passées ne présagent pas des performances futures. **Faites toujours vos propres recherches** et soyez conscient des risques avant de prendre toute décision de trading.
 
