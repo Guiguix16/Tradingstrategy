@@ -13,7 +13,7 @@ Ce projet propose un pipeline complet pour :
 5. **Comparer** la performance à un simple **Buy & Hold**,
 6. **Visualiser** le tout avec **matplotlib** (prix, signaux d’entrée/sortie, courbe de valeur du portefeuille, etc.).
 
-Ce script s’appelle `levraibon.py` et se veut un exemple de code pédagogique pour la recherche et l’analyse de stratégies de trading. Il couvre les aspects essentiels : backtest, mesures de performance et optimisation.
+Ce script s’appelle `main.py` et se veut un exemple de code pédagogique pour l’analyse de stratégies de trading. Il couvre les aspects essentiels : backtest, mesures de performance et optimisation.
 
 ---
 
@@ -81,12 +81,12 @@ Le script est compatible avec **Python 3.9+**.
 
 ## Utilisation
 
-1. **Cloner le dépôt** ou télécharger le script `levraibon.py`.
+1. **Cloner le dépôt** ou télécharger le script `main.py`.
 2. **Installer les dépendances** comme mentionné ci-dessus.
 3. **Exécuter** le script en ligne de commande :
 
 ```bash
-python levraibon.py
+python main.py
 ```
 
 ---
@@ -110,7 +110,7 @@ python levraibon.py
 
 ## Structure du code
 
-Le script `levraibon.py` est divisé en sections claires :
+Le script `main.py` est divisé en sections claires :
 
 1. **Configuration globale**
 2. **Récupération des données (ccxt)**
